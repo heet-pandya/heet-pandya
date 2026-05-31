@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pandyaheet_" target="blank"><img src="https://img.shields.io/twitter/follow/pandyaheet_?logo=twitter&style=for-the-badge" alt="pandyaheet_" /></a> </p>
 
-- 🔭 I’m currently working on **Renewable Energy Company Project with sustained calculation logic and generating users leads**
+- 🔭 I’m currently working on **Solar Energy Project for a company with sustained energy calculation logic and generating users leads**
 
 - 🌱 I’m currently learning **ReactJS, AngularJS, NodeJS, NextJS**
 
